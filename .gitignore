@@ -1,0 +1,15 @@
+# Dependencies
+node_modules
+
+# Database
+db/*.db
+
+# Environment
+.env
+.env.test
+
+# Build
+build
+
+#O gitignore é um arquivo de texto oculto que geralmente fica na raiz do repositório, 
+#utilizado para descrever ao Git tanto as pastas quanto os arquivos que a pessoa desenvolvedora deseja que sejam ignorados.
