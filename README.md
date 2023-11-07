@@ -18,4 +18,14 @@ instala o tsup (npm i tsup -D)
 coloca no package.json o script "build" tsup src => roda npm run build => ai cria a pasta
 
 
+#deploy: enviar projeto para produção, colocar no ar. Precisa estar em JS, pq nao entende o TS.
+Vamos subir para o GitHub 
+Como logar github no node:
+git gh auth
+git init - iniciar o git
+git add . - 
+git commit -m "Initial Commit"
+gh repo create - enviar codigo local q ja tenho pro git hub
+gh a
+
 
