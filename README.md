@@ -28,4 +28,9 @@ git commit -m "Initial Commit"
 gh repo create - enviar codigo local q ja tenho pro git hub
 gh a
 
+3 plataformas indicadas para fazer deploy, hospedagem
+
+render
+fly.io - mais complexo
+railway 
 
